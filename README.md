@@ -1,3 +1,6 @@
+![Sistema vendas - Rock in Rio](https://github.com/hugo-leonardo-dev/vendas-rock-in-rio/assets/94985416/4f8a5909-7d26-4631-a798-24678db2fb1f)
+
+
 # Estrutura de Software para Sistema de Logins de Venda de Ingressos
 
 Este repositório contém a descrição detalhada da estrutura de software para um sistema de logins de venda de ingressos para um mega show de Rock em Rio. O sistema é projetado para garantir que apenas clientes autenticados possam comprar ingressos, com um foco especial na gestão eficiente de solicitações de compra e na proteção contra ataques de negação de serviço (DDoS) e outras formas de abuso.
